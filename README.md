@@ -19,6 +19,7 @@
 
 ## ⭐ GitHub Статистика
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=WhosArt&show_icons=true&theme=radical%22%20alt=%22GitHub%20stats%22" alt="GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=WhosArt&show_icons=true&theme=radical" alt="GitHub stats">
+    <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhosArt&layout=compact&theme=radical" alt="langs">
 </p>
