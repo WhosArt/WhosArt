@@ -17,6 +17,10 @@
 
 ## 📁  Мои проекты на Kaggle и GitHub
 
+https://github.com/WhosArt/SpotifyAnalysis
+
+https://github.com/WhosArt/Moscow_housing_price
+
 ## ⭐ GitHub Статистика
 <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhosArt&layout=compact&theme=radical" alt="langs">
